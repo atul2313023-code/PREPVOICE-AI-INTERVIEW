@@ -5,7 +5,7 @@
 ## Project Details
 - **Team Members:**
   - Atul Dubey (Roll No: 2300270130052)
-  - Anurag Nautiyal (Roll No: 2300270130052)
+  - Anurag Nautiyal (Roll No: 2300270130042)
   - Ankush Prajapati (Roll No: 2300270130034)
 - **Course:** B.Tech Final Year Project (AKTU)
 
