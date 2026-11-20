@@ -3,7 +3,10 @@
 **Live Application:** [https://prepvoice-ai-interview-atuld.vercel.app](https://prepvoice-ai-interview-atuld.vercel.app)
 
 ## Project Details
-- **Submitted By:** Atul (apna full name aur roll no. yahan likhein)
+- **Team Members:**
+  - Atul Dubey (Roll No: 2300270130052)
+  - Anurag Nautiyal (Roll No: 2300270130052)
+  - Ankush Prajapati (Roll No: 2300270130034)
 - **Course:** B.Tech Final Year Project (AKTU)
 
 ## Overview
